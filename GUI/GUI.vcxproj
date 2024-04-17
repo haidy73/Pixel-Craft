@@ -78,7 +78,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:/Users/user/Downloads/CS112-Winter2023-2024-Assignemnt3-LibraryAndExample (2)/CS112-Winter2023-2024-Assignemnt3-LibraryAndExample</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:/Users/lenovo/Libraries</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies />
