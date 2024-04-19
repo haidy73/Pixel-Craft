@@ -5,7 +5,7 @@
 # Running the Project:
 
 ## Prerequisites:
-- [.NET Framework](https://dotnet.microsoft.com/download) installed on your machine.
+- [.NET 4.7.2 Framework](https://dotnet.microsoft.com/download) installed on your machine.
 - [Visual Studio](https://visualstudio.microsoft.com/) or a similar IDE for C# development. You can refer to this [YouTube video](https://youtu.be/HcxlYkU8aY0?si=4FY8TvJyoPdvWDqY) for Visual Studio installation instructions for installing and setting up the project.
 - **Lexend Deca font** installed on your machine. It can be downloaded from: [Lexend Deca Font](https://fonts.google.com/specimen/Lexend+Deca)
 
