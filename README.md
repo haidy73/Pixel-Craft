@@ -21,6 +21,7 @@
    - Double-click on the solution file (.sln) to open it in Visual Studio. This will load the project along with its dependencies and configuration settings.
    - Click on `Project` from the Visual Studio menu.
    - Select `C/C++` -> `Additional Include Directories` -> add the Path for the header files of the library Image_Class.
+   - Select `C/C++` -> `Language` -> `ISO C++20 Standard (/std:c++20)`
 
 4. **Build the Solution:**
    Once the project is open in Visual Studio, build the solution by selecting `Build` -> `Build Solution` from the Visual Studio menu. This will compile the project and resolve any dependencies.
