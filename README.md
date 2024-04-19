@@ -14,22 +14,28 @@
 1. **Download the Project Files:**
    Download the project files.
 
-2. **Locate the Solution File:**
+2. **Unblock the MyForm.resx File:**
+   - Locate the `MyForm.resx` file in the project directory.
+   - Right-click on the `MyForm.resx` file.
+   - Select "Properties" from the context menu.
+   - If there's an "Unblock" button or checkbox in the Properties window, click it to unblock the file. This removes any security restrictions that may have been applied to the file.
+
+3. **Locate the Solution File:**
    The solution file (.sln) is the entry point for opening the project in Visual Studio. Navigate to the directory where you downloaded the project files.
 
-3. **Open the Solution in Visual Studio:**
+4. **Open the Solution in Visual Studio:**
    - Double-click on the solution file (.sln) to open it in Visual Studio. This will load the project along with its dependencies and configuration settings.
    - Click on `Project` from the Visual Studio menu.
    - Select `C/C++` -> `Additional Include Directories` -> add the Path for the header files of the library Image_Class.
    - Select `C/C++` -> `Language` -> `ISO C++20 Standard (/std:c++20)`
 
-4. **Build the Solution:**
+5. **Build the Solution:**
    Once the project is open in Visual Studio, build the solution by selecting `Build` -> `Build Solution` from the Visual Studio menu. This will compile the project and resolve any dependencies.
 
-5. **Run the Project:**
+6. **Run the Project:**
    Press `F5` or click on the `Start` button in Visual Studio to run the project. This will build and execute the project, launching the application according to its configuration.
 
-6. **Follow Application Instructions:**
+7. **Follow Application Instructions:**
    Once the application is running, follow the instructions provided by the application to interact with its features. These instructions will vary depending on the functionality of your CLR .NET Framework project.
 
 ## Contact Information:
